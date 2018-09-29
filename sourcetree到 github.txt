@@ -1,0 +1,5 @@
+只需要将需要上传的文件放在⁨
+shiyi⁩/Documents⁩/SourceTree/computerized-algorithm/
+⁩目录下，就可以利用 SourceTree，将文件上传到 github 中。
+
+之后，可以将该目录里的文件删除
